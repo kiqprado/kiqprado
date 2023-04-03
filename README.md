@@ -1,15 +1,18 @@
 
-<p align="center">Eaae, beleza? Sou o Kaique.<br> Seja bem vindo! ✌🏻</p>
+### <p align="center">Eaae, beleza? Sou o Kaique.<br> Seja bem vindo! ✌🏻</p>
 
 ##
 
 <p> Graduando em Ciêcias da Computação </p>
 
 ##
-
+<img align="right" height="111" width="141" src="https://github.com/kiqprado/kiqprado/blob/6d2d8b53adca129e4f035bd36fef3d1ad2ce9a40/giphy.gif"/>
+<br>
 📚 Estudando Tecnologias em Front-End.<br>
-🖥️ Aplicando meus conhecimentos em projetos.
+🖥️ Aplicando meus conhecimentos em projetos.<br>
+☕ Confira os projetos e deixe uma 🌟.
 
+ 
 ##
 
 <div align="center" style="display: inline_block"><br>
