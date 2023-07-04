@@ -1,5 +1,5 @@
 
-### <p align="center">Eaae, beleza? Sou o Kaique.<br> Seja bem vindo! ✌🏻</p>
+### <p align="center">Eaae, beleza? Sou o Kaique.<br> ✌🏻</p>
 
 ##
 
