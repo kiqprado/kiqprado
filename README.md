@@ -22,7 +22,7 @@
   <img height="70" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" />
   <img height="70" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img height="70" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
- <img height="70" width="40" src="https://icongr.am/devicon/nodejs-original.svg?size=70&color=currentColor"
+  <img height="70" width="40" src="https://icongr.am/devicon/nodejs-original.svg?size=70&color=currentColor"/>
   <img height="70" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 </div>
 
